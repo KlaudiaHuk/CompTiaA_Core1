@@ -1,0 +1,47 @@
+Computers measure data transfer and storage using either bits or bytes
+
+Bit
+Refers to a binary digit; A single bit can store only one of two values: 1 or 0
+
+Nibble
+Four bits that are combined together
+
+Byte
+Contains eight bits
+
+1Kb 
+1 000 bits
+
+'b'
+Bits
+
+'B'
+Bytes (1B = 8b)
+
+Bits (b) 
+Kilobits (Kb) = 1000 b 
+Megabits (Mb) = 1 million b
+Gigabits (Gb) = 1 billion b
+Terabits (Tb) = 1 trillion b
+
+Storing data is written in terms of bytes
+
+1000 b / 8 b = 125 B
+
+1 Mb
+1 million bits
+
+1 MB
+1 million bytes
+
+1 Gbps
+1000 Mbps
+
+250 MBps
+2000 Mbps = 2 Gbps
+
+Data Transfer
+Bits
+
+Data Storage
+Bytes
