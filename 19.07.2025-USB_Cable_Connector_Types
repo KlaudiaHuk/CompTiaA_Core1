@@ -1,0 +1,63 @@
+USB Connector Types
+
+USB Type A
+
+Used with the old USB 1.0, 1.1, and 2.0 standards, and it's still supported in USB 3 and above
+
+The Type A connector is the most commonly used on desktops and laptops 
+
+USB Type B
+
+Type B Standard 
+Type B Mini
+Type B Micro
+
+Type B connectors for USB 3.0 look a little bit different
+
+Type B
+USB 2.0 
+USB 3.0
+
+Whether using USB 2.0 or USB 3.0 type B connectors is going to come down to the type of device being used
+
+USB 3.0
+Doesn't have an equivalent type B mini connector like USB 1.0, 1.1, and 2.0 do, but instead uses a type B micro connector
+
+USB Type C
+
+USB Connectors come in various types, each designed for specific devices and purposes
+
+USB Cables
+
+Serial Cables 
+Originally connected to computers using DB9 or DB25 connectors
+
+Serial connections could only have one device plugged into one serial port
+
+A USB port can connect up to 127 connected devices in what's known as a daisy chain
+
+127 devices is the theoretical maximum, but, in reality, particular ports will have a limit and it might be much smaller than 127
+
+Host Controller
+Uses the same amount of bandwidth for all devices on a particular port
+
+Devices in a particular chain share bandwith
+
+Splitting a USB 1.0 or 2.0 port across multiple devices in a hub can significantly reduce the speed
+
+The longer the cable is, the more resistance that builds up in that cable and the more the speed and the signal is going to deteriorate
+
+These are the maximum specifications that should be supported by a device
+
+25-foot USB 3 cable would not have speeds of 5 Gbps like the 9-foot cable would
+
+USB cables can also be used to provide power for devices
+
+USB 1.0, 1.1, and 2.0 
+500 milliamps or 0.5 amps
+
+USB 3.0 and 4.0
+900 milliamps or 0.9 amps
+
+Powered Device (PD) Port
+Dedicated powered port that can give up to 1500 milliamps or 1.5 ampsor 7.5 watts of power
