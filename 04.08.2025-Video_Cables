@@ -1,0 +1,64 @@
+Video Cables
+
+HDMI, DisplayPort, DVI, VGA, Thunderbolt, USB Type C
+
+High Definition Multimedia Interface (HDMI)
+Lower-resolution HDMI
+Displays 1080p or 1920 by 1080 pixels using a graphical display 
+High-resolution HDMI
+4k and 8K resolutions with 60, 120, or 144 Hertz
+
+HDMI Digital Content Protection (HDCP)
+Allows a device to validate and do a handshake with the display it's connected to, which makes sure that both the display and the device are authorized to receive that signal 
+
+Type A
+Regular full-size connector
+Type C
+Mini connector
+Type D
+Micro connector
+
+Category 1
+Standard
+Supports basic 1080p and 60 Hertz for graphical displays
+Category 2
+High-speed
+Can cover greater distances and has higher resolutions, like 4k and 8k, or higher refresh rates of 60, 120, and 144 Hertz
+
+DisplayPort has the same capabilities as HDMI
+
+Full-size DisplayPort DP
+Mini DisplayPort MiniDP or mDP
+
+The original top speed of the DisplayPort was only 2.7 Gbps, but with the latest version, it can go up to 80 Gbps
+
+Digital Visual Interface (DVI)
+Designed to support both analog and digital outputs
+
+DVI-A Supports analog signals
+DVI-D Supports digital signals
+DVI-I Supports both analog and digital signals
+
+Video graphics Array (VGA)
+Uses a 15-pin standard analog video interface port
+VGA is an older technology to be dealt with it unless when working on some older or legacy systems
+
+Thunderbolt 1 and 2
+Both use a physical connector that looks like a mini DP and are actually backwards compatible with DP
+Thunderbolt 3 and 4
+Use the same port connector as USB-C
+
+Not all Thunderbolt works on USB-C, but all USB-C will work on Thunderbolt
+All Thunderbolt 3 and 4 will support USB-C, but not all USB-C will support Thunderbolt 3 and 4
+
+Length Limitation
+Thunderbolt 3 cables should be kept at a maximum length of about half a meter to get speeds of up to 40 Gbps
+
+Thunderbolt 4
+Provides a maximum resolution of 8K and has the ability to support Daisy chaining
+
+USB-C supports 4K and even 8K resolutions
+
+
+
+
