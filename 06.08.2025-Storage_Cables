@@ -1,0 +1,79 @@
+Storage Cables:
+Thunderbolt
+Lightning
+SATA
+eSATA
+SCSI
+Serial Attached
+SCSI
+
+Connect storage devices to the computer's motherboard, allowing data transfer between the storage device and the system
+
+Thunderbolt 1 and 2
+Use DP-type connector
+
+Thunderbolt 3 and 4
+Use USB-C type connector
+
+Thunderbolt 4 supports data transfer speeds of up to 40 Gbps
+
+Serial Advanced Technology Attachment (SATA)
+Standard method of connecting a storage device to the motherboard inside of a desktop computer
+
+SATA 7-Pin Data Cable
+Transfers data only
+
+SATA 15-Pin Power Connector
+Provides the power
+
+Revision 1
+Revision 2
+Revision 3
+
+SATA Revision 1
+1500 Mbps or 1.5 Gbps
+
+SATA Revision 2
+3000 Mbps or 3 Gbps
+
+SATA Revision 3
+6000 Mbps or 6 Gbps
+
+The limitation will be the mechanical workings of the hard drive and not the actual state of the data cable
+
+External SATA (eSATA) 
+The same type of cable as SATA but is used outside of the case
+
+eSATA revisions 2 and 3 are much faster that USB 2.0
+
+These days, USB 3.0 and 4.0 are faster than eSATA cables
+
+Small Computer Systems Interface (SCSI)
+Legacy parallel bus connector that actually allowed multiple devices to be daisy-chained together
+
+Narrow SCSI
+Supported up to 7 devices
+
+Wide SCSI
+Supported up to 15 devices
+
+High Density Cable
+Uses 68 pins to carry data
+
+MOLEX Connector
+Provides the power for the SCSI device
+
+Single Connector Attachment (SCA)
+80-pin connector that provided both power and data into a single cable for the specific types of SCSI devices that supported it
+
+Serial Attached SCSI (SAS)
+High performance data transfer technology used mainly in enterprise environments for connecting storage devices to servers and workstations
+Data transfer speeds of up to 24 Gbps
+Full duplex communication and high scalability
+Backward compatible with other SATA drives
+Enterprise level reliability with features like dual port architectures
+Designed for 24/7 operation
+
+If necessary, Serial Attached SCSI is used in modern systems instead of the Legacy SCSI
+
+These days, most devices use USB or Thunderbolt for external storage and SATA for internal data transfers
